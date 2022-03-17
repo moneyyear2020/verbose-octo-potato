@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express();
-var y = x
+var 10 = x
 const haikus = require('./haikus.json');
 const port = process.env.PORT || 3000;
 
